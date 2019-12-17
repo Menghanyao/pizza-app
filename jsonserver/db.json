@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "email": "123@123.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": "45-ps8z"
+    },
+    {
+      "email": "2@2",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": "6y0mP9C"
+    },
+    {
+      "email": "123@123",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": "1-QNIV-"
+    },
+    {
+      "email": "12345@12345.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "id": "wuLnJb1"
+    },
+    {
+      "email": "233@123.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": "JD61O0G"
+    }
+  ],
+  "menus": [
+    {
+      "id": "233",
+      "name": "披萨1号",
+      "description": "第一个",
+      "options": [
+        {
+          "size": "10寸",
+          "price": "100"
+        },
+        {
+          "size": "11寸",
+          "price": "111"
+        }
+      ]
+    },
+    {
+      "name": "榴莲Pizza",
+      "description": "你在炖啥？？",
+      "options": [
+        {
+          "size": "8",
+          "price": "28"
+        },
+        {
+          "size": "10",
+          "price": "38"
+        }
+      ],
+      "id": "_jYzxnb"
+    },
+    {
+      "name": "芝士Pizza",
+      "description": "脂肪炸弹",
+      "options": [
+        {
+          "size": "8",
+          "price": "35"
+        },
+        {
+          "size": "10",
+          "price": "45"
+        }
+      ],
+      "id": "hBqb8uK"
+    },
+    {
+      "name": "qwe",
+      "description": "qwe",
+      "options": [
+        {
+          "size": "10",
+          "price": "20"
+        },
+        {
+          "size": "20",
+          "price": "30"
+        }
+      ],
+      "id": "Pew7-ie"
+    },
+    {
+      "name": "牛肉披萨",
+      "description": "很好吃",
+      "options": [
+        {
+          "size": "7",
+          "price": "38"
+        },
+        {
+          "size": "9",
+          "price": "58"
+        }
+      ],
+      "id": "E2PrnTC"
+    }
+  ]
+}
